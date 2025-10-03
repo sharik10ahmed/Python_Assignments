@@ -14,5 +14,8 @@ FIRST_student_name = "SHarik"
 
 print(FIRST_student_name)
 
-# else = 88
-# print(else)
+if value_1 > 10:
+    else_value = 88
+else:
+    else_value = 0
+print(else_value)
