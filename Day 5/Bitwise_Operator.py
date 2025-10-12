@@ -3,7 +3,7 @@ F = 20
 
 
 print("T & F is",T & F)     # bitwise and
-print("T | F is",T | F)     # bitwise or
+print("T | F is", T | F)     # bitwise or
 print("T ^ F is",T ^ F)     # bitwise xor
 print("~T is",~T)           # bitwise not
 print("~F is",~F)           # bitwise not
