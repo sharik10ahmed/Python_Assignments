@@ -6,5 +6,5 @@ print(my_name[0:9:4])
 ## 3 is step count or we can say it skips 2 characters and prints 1 character (n-1 concept)
 
 v1 = "Uncharacterised"
-print(v1[0:15:3])
+print(v1[0:15:2])
 
