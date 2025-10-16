@@ -1,0 +1,17 @@
+
+first = 5
+sec = 4
+
+if first > sec:
+    print("smaller")
+else:
+    print("nothing")
+
+   
+r1 = 8
+r2 = 8
+r3 = 8
+if r1 == r2:
+    print("some")
+if r2 == r3:
+    print("thing")
