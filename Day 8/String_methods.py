@@ -22,11 +22,11 @@ print("   Hello World   ".strip())  # Hello World
 print("Hello World".replace("World", "Python"))  # Hello Python
 print("Hello World".split(" "))  # ['Hello', 'World']
 print("-".join(["Hello", "World"]))  # Hello-World
-print("Hello World".find("World"))  # 6
+print("Hello World".find("l"))  # 6
 print("Hello World".count("o"))  # 2
-print("Hello World".startswith("Hello"))  # True
+print("Hello World".startswith("H"))  # True
 print("Hello World".endswith("World"))  # True
-print("Hello World".index("World"))  # 6
+print("Hello World".index("W"))  # 6
 print("hello world".capitalize())  # Hello world on a specified delimiter
 # 11. isalpha() => it is used to check if all characters in the string are alphabetic
 # 12. isdigit() => it is used to check if all characters in the string

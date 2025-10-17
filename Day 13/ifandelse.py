@@ -1,6 +1,6 @@
 
-first = 5
-sec = 4
+first = 4
+sec = 8
 
 if first > sec:
     print("smaller")

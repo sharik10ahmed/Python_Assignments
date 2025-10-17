@@ -15,7 +15,7 @@ print(o) # tells the index value of specified value
 op = T_L.count(77)
 print(op) # counts the no. of occurence of specified value
 T_L.sort()
-print(T_L) # sorts values in ascending and descending
+print(T_L) # sort values in ascending and descending
 T_L.reverse()
 print(T_L) # reverse value from opposite
 New_List = T_L.copy()
