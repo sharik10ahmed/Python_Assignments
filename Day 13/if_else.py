@@ -9,9 +9,9 @@ else:
 
    
 r1 = 8
-r2 = 8
-r3 = 8
-if r1 == r2:
+r2 = 5
+r3 = 5
+if r1 > r2 < r3:
     print("some")
 if r2 == r3:
     print("thing")
