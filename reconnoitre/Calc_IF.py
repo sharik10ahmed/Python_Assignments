@@ -1,3 +1,5 @@
+user_input = ""
+while user_input.lower() != "close":
 import os
 os.system('cls')
 import math
