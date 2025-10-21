@@ -1,8 +1,6 @@
-user_input = ""
-while user_input.lower() != "close":
+import math
 import os
 os.system('cls')
-import math
 try:
    print("Calculator Ver.1.1".center(160))
    u1 = int(input("1.Addition\n2.Difference\n3.Product\n4.Division\n5.Floor Division\n6.Exponential\n\n\nSelect Your Choice -> "))
