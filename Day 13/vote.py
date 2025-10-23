@@ -6,7 +6,7 @@ except ValueError:
 if age > 105:
    print("Invalid response")
    exit()
-if age < 18:
+elif age < 18:
    print("Your not eligible to vote !")
 else:
      Citizenship = input("Enter Your Nationality -> ")
