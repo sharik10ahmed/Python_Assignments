@@ -3,5 +3,5 @@ a = sum*2
 while sum == 5:
     print("content -> ",a)
     if a == 10:
-        print("")
+        print("Exited")
     exit()
