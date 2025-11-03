@@ -5,4 +5,4 @@ while sum == 5:
     if a == 10:
         print("Exited")
     exit()
-print("New Line")
+print("Print this now")
