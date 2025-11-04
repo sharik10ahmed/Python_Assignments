@@ -7,3 +7,4 @@ while sum == 5:
     exit()
 a=5
 print(a)
+print("A text")
