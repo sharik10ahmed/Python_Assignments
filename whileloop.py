@@ -5,5 +5,5 @@ while sum == 5:
     if a == 10:
         print("Exited")
     exit()
-print("Print this now")
-print("End of code")
+a=5
+print(a)
