@@ -8,3 +8,4 @@ while sum == 5:
 a=5
 print(a)
 print("A text")
+print("something")
