@@ -4,8 +4,12 @@ while sum == 5:
     print("content -> ",a)
     if a == 10:
         print("Exited")
-    exit()
+    break
+    
 a=5
 print(a)
 print("A text")
 print("something")
+char = input = "Character"
+print(char)
+exit()
