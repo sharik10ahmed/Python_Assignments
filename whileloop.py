@@ -12,4 +12,8 @@ print("A text")
 print("something")
 char = input = "Character"
 print(char)
+a=5
+b=6
+c=a+b
+print(c)
 exit()
