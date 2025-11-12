@@ -1,0 +1,1 @@
+print("get all values: ", my_dict.values())
