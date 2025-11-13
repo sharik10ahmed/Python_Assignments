@@ -5,4 +5,8 @@ my_dict = {
                     "data" : "11111111111"
 }
 
-print("get all values: ", my_dict.values())
+my_new_dict = { "name" : "WIlmot", "roll": 1}
+
+my_new_dict.clear()
+
+print("after applying clear method ", my_new_dict)
