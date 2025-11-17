@@ -1,0 +1,12 @@
+v = bool(input(""))
+print(v)
+sentence = "Whole New sentence"
+print(sentence.split(" "))
+print("-".join("Sharik bro"))
+print("aaalol".find("l"))
+print("   hello".strip())
+print("New Word".replace("Word","Line"))
+print("Hello World".endswith("d"))
+print("hello world".capitalize())
+v = ("Hello","Cat","bat")
+print(v)

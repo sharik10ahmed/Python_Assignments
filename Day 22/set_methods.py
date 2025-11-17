@@ -1,4 +1,14 @@
 Sharik_set = { 22, 40, 44}
 set_2 = { 33, 22}
-print( "the union of this both set is :", Sharik_set.intersection(set_2))
-print("end")
+print("intersection -> ",Sharik_set.intersection(set_2))
+print("Union -> ",Sharik_set.union(set_2))
+set_2.add(102)
+print(set_2)
+set_2.update([12,42])
+print(set_2)
+set_2.remove(12)
+print(set_2)
+set_2.discard(22)
+print("discard : ",set_2)
+set_2.pop()
+print("pop -> ",set_2)
