@@ -1,11 +1,21 @@
 {
     "version": "0.2.0",
     "configurations": [
+
         {
             "name": "Run Calc_IF.py in External Terminal",
             "type": "python", // MUST be 'python', not 'node' or 'cppdbg'
             "request": "launch",
             "program": "${workspaceFolder}/reconnoitre/Calc_IF.py", 
+            // The ${workspaceFolder} variable will map to D:\Software Setup\C\Python_Assignments
+            "console": "externalTerminal" // Forces the file to run in a new Command Prompt/PowerShell window
+        }
+
+        {
+            "name": "Run function_parameters.py in External Terminal",
+            "type": "python", // MUST be 'python', not 'node' or 'cppdbg'
+            "request": "launch",
+            "program": "${workspaceFolder}/Day 25/function_parameters.py",
             // The ${workspaceFolder} variable will map to D:\Software Setup\C\Python_Assignments
             "console": "externalTerminal" // Forces the file to run in a new Command Prompt/PowerShell window
         }
