@@ -1,5 +1,5 @@
 for v in range(19,191,19):
-     print("Table -> ",v)
+     print(v)
 print("\n")
     
 for v in range(1,11):
