@@ -15,4 +15,3 @@ else:
     print("\n")
     print(f"{RED}BEWARE{RESET}".center(157))
     print(f"{WHITE}NOTE -> \"Length should be less than Breath\"{reset}".center(154))
-    exit()
