@@ -6,15 +6,8 @@ while sum == 5:
         print("Exited")
     break
     
+continue
 a=5
-print(a)
-print("A text")
-print("something")
-char = input = "Character"
-print(char)
-a=5
-b=6
-c=a+b
+b=89
+c=b-a
 print(c)
-print("nothing")
-exit()
