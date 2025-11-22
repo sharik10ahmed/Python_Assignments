@@ -5,9 +5,3 @@ while sum == 5:
     if a == 10:
         print("Exited")
     break
-    
-continue
-a=5
-b=89
-c=b-a
-print(c)
