@@ -1,4 +1,4 @@
-my_number = 99
+
 my_number = int(input("enter the number"))
 
 if my_number > 0:
