@@ -1,5 +1,4 @@
 def even_check(a,b):
-    // this code is run by sharik ahmad
     
     for i in range(a,b):
         if i%2==0:

@@ -5,7 +5,7 @@ except ValueError:
    exit()
 if age > 105:
    print("Invalid response")
-   exit()
+   
 elif age < 18:
    print("Your not eligible to vote !")
 else:
