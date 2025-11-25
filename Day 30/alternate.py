@@ -1,0 +1,2 @@
+def prime(a,b):
+    
