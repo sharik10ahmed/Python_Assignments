@@ -1,5 +1,9 @@
 d=0
-n = int(input("Enter Positive Integer -> "))
+try:
+   n = int(input("Enter Positive Integer -> "))
+except ValueError:
+   print("Invalid Response")
+   exit()
 if n==1:
     print("No")
 
@@ -11,4 +15,4 @@ for i in range(2,n):
 if d==0:
     print("yes\n")
 else:
-    print("No")   
+    print("No")
