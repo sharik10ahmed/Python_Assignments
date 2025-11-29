@@ -1,0 +1,1 @@
+withdraw_amount = int(input("Enter Amount to withdraw -> "))
