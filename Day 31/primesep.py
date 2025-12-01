@@ -15,4 +15,4 @@ for i in range(2,n):
 if d==0:
     print("yes\n")
 else:
-    print("No")
+    print("Ofcourse Not")
