@@ -1,9 +1,9 @@
 sum = 5
 p = sum*2
-T=p
+Q=p
 while sum == 5:
     print("content -> ",a)
     if a == 10:
         print("Exited")
     break
-print(T)
+print(Q)
