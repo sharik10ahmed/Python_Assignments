@@ -1,7 +1,7 @@
 class father:
     father_1st_property="Taj Hotel"
 
-    def father_assets(self):
+    def father_assets(self):    
         print("Bhardwaj apartment")
         print("Willing Restaurant")
 
