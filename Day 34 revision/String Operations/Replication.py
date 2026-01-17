@@ -1,0 +1,2 @@
+A_WORD= "REPEAT_"
+print(A_WORD*5)
