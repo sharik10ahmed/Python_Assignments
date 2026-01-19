@@ -1,4 +1,4 @@
-var = 2//2  # floor division
+var = 2//2  # floor division gives quotient value without decimal
 print(var)
 var = 2/2   # Divsion gives quotient with decimal
 print(var)

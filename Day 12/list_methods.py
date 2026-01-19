@@ -5,7 +5,7 @@ print(T_L)
 T_L.extend([45,567,87])
 print(T_L) # adds multiple values at last 
 T_L.insert(2,89)
-print(T_L) # inserts a value on a specified index
+print("insert->",T_L) # inserts a value on a specified index
 T_L.remove(12)
 print(T_L) # remove a value
 T_L.pop(-2)
