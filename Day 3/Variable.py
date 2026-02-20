@@ -10,6 +10,3 @@ UPPer_case_variable = "I am in Upper Case"
 print(UPPer_case_variable)
 upper_case_variable = "I am in lower Case but different"
 print(upper_case_variable)
-
-
-
