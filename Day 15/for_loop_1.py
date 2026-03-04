@@ -5,4 +5,4 @@ for check in my_text:
     if check in vowels:
         print(check)
     if check not in vowels:
-        print(f"\t\t{check}")
+        print(f"\t\t{check}") #out

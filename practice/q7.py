@@ -1,5 +1,10 @@
-num = 7
-if num % 2 == 0:
-    print("Even")
+num = int(input("enter a no.-> "))
+total = 0
+
+for digit in str(num):
+    total += int(digit) ** 3  # Cubes the digit
+
+if total == num:
+    print("Armstrong")
 else:
-    print("Odd")
+    print("Not Armstrong")

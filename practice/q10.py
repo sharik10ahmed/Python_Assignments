@@ -1,8 +1,7 @@
-name = input("Name: ")
-char = input("Character: ")
+n = int(input("enter no.-> "))
+i = 1
 
-length = len(name.replace(" ", ""))
-count = name.lower().count(char.lower())
-
-print("Length:", length)
-print("Count:", count)
+while i <= n:
+    if i % 5 != 0:
+        print(i, end=" ")
+    i += 1
