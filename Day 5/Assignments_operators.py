@@ -22,6 +22,20 @@ v1 /= v2
 print("5 Division->",v1)
 v1 %= v2
 print("6 Modulo or Modular->",v1)
+v1=10
+v2=20
 v1 -= v2
 print("7 Diff->",v1)
+v1=10
+v2=20
+v1 = v1-v2
+print("8 Diff->",v1)
+v1=10
+v2=20
+v1 += v2
+print("9 PLus->",v1)
+v1=10
+v2=20
+v1 = v1 + v2
+print("10 sum= ",v1)
 

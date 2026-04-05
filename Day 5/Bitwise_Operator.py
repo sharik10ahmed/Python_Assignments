@@ -1,5 +1,5 @@
 T = 10
-F = 20
+F = 4
 
 
 print("T & F is",T & F)     # bitwise and
