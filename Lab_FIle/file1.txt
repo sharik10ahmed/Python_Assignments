@@ -1,0 +1,5 @@
+Line 1: This is an odd line (should be copied)
+Line 2: This is an even line (should be skipped)
+Line 3: This is another odd line (should be copied)
+Line 4: This is another even line (should be skipped)
+Line 5: Final odd line (should be copied)

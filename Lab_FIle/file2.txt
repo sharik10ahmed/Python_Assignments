@@ -1,0 +1,3 @@
+Line 1: This is an odd line (should be copied)
+Line 3: This is another odd line (should be copied)
+Line 5: Final odd line (should be copied)
