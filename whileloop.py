@@ -1,6 +1,6 @@
 sum = 5
-p = sum*2
-t=p
+y = sum*2
+t=y
 while sum == 5:
     print("content -> ",p)
     if p == 10:
