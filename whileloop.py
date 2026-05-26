@@ -1,9 +1,9 @@
 sum = 5
-l = sum*2
-t=l
+q = sum*2
+t=q
 while sum == 5:
-    print("content -> ",l)
-    if l == 10:
+    print("content -> ",q)
+    if q == 10:
         print("Exited")
     break
 print(t)
