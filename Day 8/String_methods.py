@@ -9,18 +9,18 @@
 # 8. join() => it is used to join a list of strings into a single string with a specified separator
 # 9. find() => it is used to find the index of the first occurrence of a substring
 # 10. count() => it is used to count the number of occurrences of a substring in the string
-# 14. startswith() => it is used to check if the string starts with a specified substring
-# 15. endswith() => it is used to check if the string ends with a specified substring
-# # 16. index() => it is used to find the index of the first occurrence of a substring (raises an error if not found)
-# 17. capitalize() => it is used to convert the first character of the string to uppercase and the rest to lowercase
+# 11. startswith() => it is used to check if the string starts with a specified substring
+# 12. endswith() => it is used to check if the string ends with a specified substring
+# # 13. index() => it is used to find the index of the first occurrence of a substring (raises an error if not found)
+# 14. capitalize() => it is used to convert the first character of the string to uppercase and the rest to lowercase
 sentence = "This is a sample sentence."
-print((len("Hello World")))  # 11
+print(len("Hello World"))  # 11
 print("Hello World".lower())  # hello world on a specified delimiter
 print("Hello World".upper())  # HELLO WORLD on a specified delimiter
 print(sentence.title())  # Hello World
 print("   Hello World   ".strip())  # Hello World
 print("Hello World".replace("World", "Python"))  # Hello Python
-print("Hello World".split(" "))  # ['Hello', 'World']
+print("Hello World".split())  # ['Hello', 'World']
 print("-".join(["Hello", "World"]))  # Hello-World
 print("Hello World".find("l"))  # 6
 print("Hello World".count("o"))  # 2
@@ -28,5 +28,5 @@ print("Hello World".startswith("H"))  # True
 print("Hello World".endswith("World"))  # True
 print("Hello World".index("W"))  # 6
 print("hello world".capitalize())  # Hello world on a specified delimiter
-# 11. isalpha() => it is used to check if all characters in the string are alphabetic
-# 12. isdigit() => it is used to check if all characters in the string
+# 15. isalpha() => it is used to check if all characters in the string are alphabetic
+# 16. isdigit() => it is used to check if all characters in the string are digits
